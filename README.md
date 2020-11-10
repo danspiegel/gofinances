@@ -2,7 +2,7 @@
 
 GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finanças (eu preciso muito disso), permitindo que você cadastre entradas, saídas e categorize-as de uma forma organizada!
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias
 
 #### Frontend
 - React
@@ -32,7 +32,7 @@ GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finan�
 - Jest
 - Supertest
 
-## 💻 Rodando a aplicação
+## Rodando a aplicação
 
 #### Requisitos
 
@@ -43,7 +43,7 @@ GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finan�
 **Clone o repositório**
 
 ```sh
-git clone git@github.com:liverday/gofinances.git
+git clone git@github.com:danspiegel/gofinances.git
 ```
 
 **Instale as dependencias**
@@ -90,8 +90,3 @@ Duplique o arquivo `.env.example`, removendo a parte `.example` do nome (ficando
 yarn dev:server
 ```
 
-#### Mobile
-
-Em desenvolvimento 💻 
-
-Feito com :heart: por Vitor Medeiro. 🤝 Entre em [contato](https://www.linkedin.com/in/vitor-medeiro-9096ab138) 
